@@ -1,4 +1,4 @@
-
+![Image Alt Text](https://github.com/AlexandreSpagnol/WorkPortfolio/blob/00f2d7551ccbf85904c401edaa191d9d98ed5785/Hello%2C%20I%20am%20Alexandre!!(1).png)
 
 # About me
 Hey there, I'm Alexandre, a 23-year-old graduate student diving deep into the fascinating world of data science at Nova IMS. With a background in Business Management from Universidade do Algarve, I'm currently honing my skills in Data Science and Advanced Analytics, with a focus on Business Analytics.
